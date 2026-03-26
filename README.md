@@ -1,4 +1,4 @@
-# TwinMind - Meeting Recording & AI Summary App
+# MeetXRecorder - Meeting Recording & AI Summary App
 
 A production-grade Android application that records meetings, transcribes audio in real-time using Google Gemini, and generates structured AI-powered summaries.
 
